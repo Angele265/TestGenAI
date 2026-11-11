@@ -5,13 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fd5bb3f-d44f-4fb5-83b0-9b6bb68bd35f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/data/sample_code/shipping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evaluation/ai_coverage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evaluation/ai_evaluation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evaluation/comparison_report.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evaluation/project_test_results.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evaluation/reference_coverage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evaluation/rule_based_coverage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evaluation/shipping_reference_coverage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_ai_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ai_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ai_validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_executor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_ai_validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_calculator_ai_generated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_calculator_reference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_calculator_rule_based.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_shipping_ai_generated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_shipping_reference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_test_executor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,26 +45,29 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3LdRpTTfTQZrMWT3U2Y7gIma0XK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in test_code_analyzer.py.executor": "Run",
-    "Python tests.Python tests in test_environment.py.executor": "Run",
-    "Python tests.Python tests in test_test_generator.py.executor": "Run",
-    "Python.run_analyzer.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in test_code_analyzer.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_environment.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_test_generator.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.run_analyzer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_environment.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bihan\TestGenAI\src" />
@@ -47,7 +76,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+        <option value="bundled-python-sdk-5781019d23a5-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.28539.58" />
       </set>
     </attachedChunks>
   </component>
